@@ -164,7 +164,19 @@ Can't be changed:
   - (cn, un) money that is given to a school, a college or another institution to provide it with an income;
     the act of giving this money.
   - (cn, usually pl.) a quality or an ability that you are born with.
-
++ **spillover** [ˈspɪləʊvə(r)]
+  - (n) something that is too large or too much for the place where it starts, and spreads to other places.
+  - (n) the results or the effects of sth that have spread to other situations or places.
++ **backwash**  [ˈbækwɒʃ]
+  - (n) the unpleasant result of an event.
+  - (n) waves caused by a boat moving through water;
+    the movement of water back into the sea after a wave has hit the beach.
++ **methodology** [ˌmeθəˈdɒlədʒi]
+  - (cn, un) a set of methods and principles used to perform a particular activity.
++ **prioritize** [praɪˈɒrətaɪz]
+  - (v) to put tasks, problems, etc. in order of importance,
+    so that you can deal with the most important first.
+  - (v) to treat sth as being more important than other things.
 
 ## Journal article
 
@@ -200,3 +212,4 @@ Can't be changed:
   - This paper/article analyzes...
   - The aim/purpose of this essay is to ...
   - It suggested that...
+ 
