@@ -124,7 +124,7 @@ Can't be changed:
 + **intellectual** [ˌɪntəˈlektʃuəl]
   - (adj) connected with or using a person's ability to think in a logical way and understand things.
 + **relevance**  [ˈreləvəns]
-  - (n) the relation of something to the matter at hand.
+  - (n) the degree to which something is related or useful to what is happening or being talked about. 
 + **pervasive** [pəˈveɪsɪv]
   - (adj) existing in all parts of a place or thing;
     spreading gradually to affect all parts of a place or thing.
@@ -212,4 +212,5 @@ Can't be changed:
   - This paper/article analyzes...
   - The aim/purpose of this essay is to ...
   - It suggested that...
- 
+
+
