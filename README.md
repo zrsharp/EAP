@@ -1,25 +1,30 @@
 
 <!-- vim-markdown-toc GitLab -->
 
-* [Unit 2-3 Paraphrasing](#unit-2-3-paraphrasing)
-  * [Words](#words)
-  * [Paraphrasing](#paraphrasing)
-    * [What is Paraphrasing](#what-is-paraphrasing)
-    * [How to Paraphrase](#how-to-paraphrase)
-    * [Characteristics of a good paraphrase](#characteristics-of-a-good-paraphrase)
-    * [Techniques used to Paraphrase](#techniques-used-to-paraphrase)
-* [Unit 3-1 Abstract in a journal article](#unit-3-1-abstract-in-a-journal-article)
-  * [Words](#words-1)
-  * [Journal article](#journal-article)
-  * [Abstract](#abstract)
-    * [Abstract is one part in a journal article](#abstract-is-one-part-in-a-journal-article)
-    * [Features in an abstract](#features-in-an-abstract)
+* [Unit 2](#unit-2)
+  * [Unit 2-3 Paraphrasing](#unit-2-3-paraphrasing)
+    * [Words](#words)
+    * [Paraphrasing](#paraphrasing)
+      * [What is Paraphrasing](#what-is-paraphrasing)
+      * [How to Paraphrase](#how-to-paraphrase)
+      * [Characteristics of a good paraphrase](#characteristics-of-a-good-paraphrase)
+      * [Techniques used to Paraphrase](#techniques-used-to-paraphrase)
+  * [Unit 2 Mind Map](#unit-2-mind-map)
+* [Unit 3](#unit-3)
+  * [Unit 3-1 Abstract in a journal article](#unit-3-1-abstract-in-a-journal-article)
+    * [Words](#words-1)
+    * [Journal article](#journal-article)
+    * [Abstract](#abstract)
+      * [Abstract is one part in a journal article](#abstract-is-one-part-in-a-journal-article)
+      * [Features in an abstract](#features-in-an-abstract)
 
 <!-- vim-markdown-toc -->
 
-# Unit 2-3 Paraphrasing
+# Unit 2
 
-## Words
+## Unit 2-3 Paraphrasing
+
+### Words
 
 + **viability** [ˌvaɪəˈbɪləti]
   - (un) ability to work as intended or to succeed.
@@ -61,13 +66,13 @@
   - (n) without any unusual or interesting features.
 
 
-## Paraphrasing
+### Paraphrasing
 
-### What is Paraphrasing
+#### What is Paraphrasing
 
 Expressing another person's words or ideas in your own words is called paraphrasing.
 
-### How to Paraphrase
+#### How to Paraphrase
 
 - Ensure that a sequence of three words will not be the same as the original.
 - Do not change any of the ideas in the original information.
@@ -80,13 +85,13 @@ Can't be changed:
 3. Technical terms: genetically modified foods, DNA.
 4. Number and dates: 57%, 2014, April 20.
 
-### Characteristics of a good paraphrase
+#### Characteristics of a good paraphrase
 
 - The paraphrase has the same meaning as the original writing.
 - The paraphrase is roughly the same length as the original writing.
 - The original words and structures of the source, except fo r technical words or very common words("public domain" words), have been rephrased.
 
-### Techniques used to Paraphrase
+#### Techniques used to Paraphrase
 
 1. Use appropriate synonyms
 
@@ -107,9 +112,15 @@ Can't be changed:
 
 4. Change the part of speech. 
 
-# Unit 3-1 Abstract in a journal article
+## Unit 2 Mind Map
 
-## Words
+![image](https://raw.githubusercontent.com/zrsharp/EAP/master/img/mindmap2.png)
+
+# Unit 3
+
+## Unit 3-1 Abstract in a journal article
+
+### Words
 
 + **address** [əˈdres]
   - (v) to make a formal speech to a group of people
@@ -178,14 +189,14 @@ Can't be changed:
     so that you can deal with the most important first.
   - (v) to treat sth as being more important than other things.
 
-## Journal article
+### Journal article
 
 - Important genre for anyone undertaking academic study.
 - Publishing up-to-date ideas and research finding in specific areas.
 
-## Abstract
+### Abstract
 
-### Abstract is one part in a journal article
+#### Abstract is one part in a journal article
 
 1. At the begining of an academic article.
 2. Summarizes the whole article.
@@ -193,7 +204,7 @@ Can't be changed:
 4. Available and searchable separately.
 5. Get a quick overview of the contents of a journal article.
 
-### Features in an abstract
+#### Features in an abstract
 
 1. Background to the topic.
 2. Aims of the text.
