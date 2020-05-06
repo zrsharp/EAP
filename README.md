@@ -9,7 +9,7 @@
       * [How to Paraphrase](#how-to-paraphrase)
       * [Characteristics of a good paraphrase](#characteristics-of-a-good-paraphrase)
       * [Techniques used to Paraphrase](#techniques-used-to-paraphrase)
-  * [Unit 2 Mind Map](#unit-2-mind-map)
+  * [Mind map](#mind-map)
 * [Unit 3](#unit-3)
   * [Unit 3-1 Abstract in a journal article](#unit-3-1-abstract-in-a-journal-article)
     * [Words](#words-1)
@@ -17,6 +17,11 @@
     * [Abstract](#abstract)
       * [Abstract is one part in a journal article](#abstract-is-one-part-in-a-journal-article)
       * [Features in an abstract](#features-in-an-abstract)
+  * [Unit 3-2 Essay conclusion](#unit-3-2-essay-conclusion)
+    * [Words](#words-2)
+    * [What is essay conclusion](#what-is-essay-conclusion)
+    * [Features of a conclusion](#features-of-a-conclusion)
+    * [Hedging language](#hedging-language)
 
 <!-- vim-markdown-toc -->
 
@@ -112,7 +117,7 @@ Can't be changed:
 
 4. Change the part of speech. 
 
-## Unit 2 Mind Map
+## Mind map
 
 ![image](https://raw.githubusercontent.com/zrsharp/EAP/master/img/mindmap2.png)
 
@@ -223,5 +228,55 @@ Can't be changed:
   - This paper/article analyzes...
   - The aim/purpose of this essay is to ...
   - It suggested that...
+
+## Unit 3-2 Essay conclusion
+
+### Words
+
+12. dyslexia(n.)
+13. dyslexic(a.)
+having impaired ability to comprehendwritten words usually associated with aneurologic disorder
+14. conclusive (a.) 
+(of evidence or argument) having or likely to have the effect of proving a case; decisive.
+15. deficit(n.) 
+the property of being an amount bywhich something is less than expected orrequired
+16. tentative (a.) 
+not certain or fixed;done without confidence
+17. hedging (n.)
+an intentionally noncommittal or ambiguous statement
+18. emerging (a.)
+coming into existence; coming into maturity; coming into view. 
+19. index(n.)
+a numerical scale used to compare variables with one another or with some reference number
+20. diffuse(v.)
+spread over a wide area
+21. corporation(n.)
+a large business company
+22. coherence(n.)
+the situation in which all the parts of sth fit together well
+23. cohesion (n.)
+the act or state of keeping together
+
+### What is essay conclusion
+
+- the part of an essay which summarizes the main points of the whole text, usually the end of the text.
+- should not just repeat the main points.
+
+### Features of a conclusion
+
+- recap the topic/thesis statement
+- summarize main points of the essay
+- refer to finding of search
+- acknowledge limitations of the essay
+- identify areas for further research
+- comment on the implications application of the findings
+- offer predictions for further developments.
+
+### Hedging language
+
+- hedging language, also known as minimizing language
+- used to soften what you write, so that your ideas are not presented as absolute facts.
+- including modal verbs, tentative verbs, and some adverbs 
+
 
 
