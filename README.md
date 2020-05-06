@@ -233,36 +233,36 @@ Can't be changed:
 
 ### Words
 
-+ dyslexia [dɪsˈleksiə]
++ **dyslexia** [dɪsˈleksiə]
   - (u) a slight disorder of the brain that causes difficulty in reading and spelling, for example, but does not affect intelligence. 
-+ dyslexic [dɪsˈleksɪk]
++ **dyslexic** [dɪsˈleksɪk]
   - having impaired ability to comprehendwritten words usually associated with aneurologic disorder.
   - of or relating to or symptomatic of dyslexia.
-+ conclusive [kənˈkluːsɪv] 
++ **conclusive** [kənˈkluːsɪv] 
   - (adj) (of evidence or argument) having or likely to have the effect of proving a case; decisive.
-+ deficit [ˈdefɪsɪt]
++ **deficit** [ˈdefɪsɪt]
   - (n) the property of being an amount bywhich something is less than expected orrequired
-+ tentative [ˈtentətɪv] 
++ **tentative** [ˈtentətɪv] 
   - (adj) unsettled in mind or opinion.
   - (adj) under terms not final or fully worked out or agreed upon. 
-+ hedging [ˈhedʒɪŋ]
++ **hedging** [ˈhedʒɪŋ]
 an intentionally noncommittal or ambiguous statement
-+ emerging [iˈmɜːdʒɪŋ]
++ **emerging** [iˈmɜːdʒɪŋ]
   - (adj) coming into existence; coming into maturity; coming into view. 
-+ index [ˈɪndeks]
++ **index** [ˈɪndeks]
   - (adj) an alphabetical listing of names and topics along with page numbers where they are discussed.
   - (adj) a numerical scale used to compare variables with one another or with some reference number
-+ diffuse [dɪˈfjuːs , dɪˈfjuːz]
++ **diffuse** [dɪˈfjuːs , dɪˈfjuːz]
   - (adj) spread over a wide area.
   - (v) to spread sth or become spread widely in all directions.
   - (v) cause to become widely known.
-+ corporation [ˌkɔːpəˈreɪʃn]
++ **corporation** [ˌkɔːpəˈreɪʃn]
   - (n) a large business company.
   - (n) an organization or a group of organizations that is recognized by law as a single unit.
-+ coherence [kəʊˈhɪərəns]
++ **coherence** [kəʊˈhɪərəns]
   - (un) logical and orderly and consistent relation of parts.
   - (un) the state of cohering or sticking together.
-+ cohesion [kəʊˈhiːʒn]
++ **cohesion** [kəʊˈhiːʒn]
   - (n) (physics) the intermolecular force that holds together the molecules in a solid or liquid.
   - (n) (botany) the process in some plants of parts growing together that are usually separate.
   - (n) the state of cohering or sticking together.
