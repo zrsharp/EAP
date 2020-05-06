@@ -246,7 +246,8 @@ Can't be changed:
   - (adj) unsettled in mind or opinion.
   - (adj) under terms not final or fully worked out or agreed upon. 
 + **hedging** [ˈhedʒɪŋ]
-an intentionally noncommittal or ambiguous statement
+  - (n) an intentionally noncommittal or ambiguous statement.
+  - (n) any technique designed to reduce or eliminate financial risk.
 + **emerging** [iˈmɜːdʒɪŋ]
   - (adj) coming into existence; coming into maturity; coming into view. 
 + **index** [ˈɪndeks]
