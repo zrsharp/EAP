@@ -1,7 +1,7 @@
 
 <!-- vim-markdown-toc GitLab -->
 
-* [Unit 2](#unit-2)
+* [Unit 2 Sustainability](#unit-2-sustainability)
   * [Unit 2-3 Paraphrasing](#unit-2-3-paraphrasing)
     * [Words](#words)
     * [Paraphrasing](#paraphrasing)
@@ -10,7 +10,7 @@
       * [Characteristics of a good paraphrase](#characteristics-of-a-good-paraphrase)
       * [Techniques used to Paraphrase](#techniques-used-to-paraphrase)
   * [Mind map](#mind-map)
-* [Unit 3](#unit-3)
+* [Unit 3 Creativity](#unit-3-creativity)
   * [Unit 3-1 Abstract in a journal article](#unit-3-1-abstract-in-a-journal-article)
     * [Words](#words-1)
     * [Journal article](#journal-article)
@@ -22,10 +22,18 @@
     * [What is essay conclusion](#what-is-essay-conclusion)
     * [Features of a conclusion](#features-of-a-conclusion)
     * [Hedging language](#hedging-language)
+* [Unit 4 Information](#unit-4-information)
+  * [Unit 4-1 Summary](#unit-4-1-summary)
+    * [Words](#words-3)
+    * [Definition](#definition)
+    * [Function](#function)
+    * [Differences between summary and abstract](#differences-between-summary-and-abstract)
+    * [Similarities and differences between summary and paraphrase](#similarities-and-differences-between-summary-and-paraphrase)
+    * [How to write a summary](#how-to-write-a-summary)
 
 <!-- vim-markdown-toc -->
 
-# Unit 2
+# Unit 2 Sustainability
 
 ## Unit 2-3 Paraphrasing
 
@@ -121,7 +129,7 @@ Can't be changed:
 
 ![image](https://raw.githubusercontent.com/zrsharp/EAP/master/img/mindmap2.png)
 
-# Unit 3
+# Unit 3 Creativity
 
 ## Unit 3-1 Abstract in a journal article
 
@@ -288,4 +296,83 @@ Can't be changed:
 - hedging language, also known as minimizing language
 - used to soften what you write, so that your ideas are not presented as absolute facts.
 - including modal verbs, tentative verbs, and some adverbs 
+
+# Unit 4 Information
+
+## Unit 4-1 Summary
+
+### Words
+
++ **corroboration** [kəˈrɒbəreɪʃn]
+  - (n) confirmation that some fact or statement is true through the use of documentary evidence.
++ genial [ˈdʒiːniəl]
+  - (adj) friendly and cheerful.
++ **spontaneity** [ˌspɒntəˈneɪəti]
+  - (un) the quality of being spontaneous and coming from natural feelings without constraint.
++ **speculation** [ˌspekjuˈleɪʃn]
+  - (n) continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature.
+  - (n) an investment that is very risky but could yield great profits.
+  - (n) a message expressing an opinion based on incomplete evidence
++ **indulge** [ɪnˈdʌldʒ]
+  - (v) to allow yourself to have or do sth that you like, especially sth that is considered bad for you.<br>
+    (~ in sth | ~ oneself with sth)
+  - (v) to satisfy a particular desire, interest, etc.
+  - (v) to be too generous in allowing sb to have or do whatever they like.
+  - (v) to take part in an activity, especially one that is illegal. (~ in sth)
++ **anchor** [ˈæŋkə(r)]
+  - (n) a heavy metal object that is attached to a rope or chain and dropped over the side of a ship or boat to keep it in one place.
+  - (n) a person or thing that gives sb a feeling of safety.
+  - (v) to let an anchor down from a boat or ship in order to prevent it from moving away.
++ **take a stab at** (stab [stæb])
+  - try to do sth.
+  - make an effort or attempt.
++ **nuance** [ˈnjuːɑːns]
+  - (n) a very slight difference in meaning, feeling, tone, or color.
++ **stun** [stʌn]
+  - (v) to make a person or an animal unconscious for a short time, especially by hitting them on the head.
+  - (v) to surprise or shock sb so much that they cannot think clearly or speak.
+  - (v) to impress sb very much.
++ **document**  [ˈdɒkjumənt , ˈdɒkjument]
+  - (n) an official paper or book that gives information about sth, or that can be used as evidence or proof of sth.
+  - (n) a computer file that contains text that has a name that identifies it.
+  - (v) to record the details of sth.
+  - (v) to prove or support sth with documents.
++ **transcribe** [trænˈskraɪb]
+  - (v) to record thoughts, speech or data in a written form, or in a different written form from the original.
+  - (v) to show the sounds of speech using a special phonetic alphabet.
+  - (v) to write a piece of music in a different form so that it can be played by another musical instrument or sung by another voice. (~ sth for sth)
+
+### Definition
+
+A summary is a shortened version of the original.
+
+### Function
+
+- Formal, written summarizes can evaluate students' writing skills.
+- Summarizing information is an efficient way to study.
+
+### Differences between summary and abstract
+
+- Abstract is a short, clear pointer, and summary is a little detailed version of abstract.
+- A summary reflects what the original contains, whereas an abstract reflects what the original is about.
+- A summary contains the meat of the original, whereas an abstract contains only its skeletal structure.
+- When you write a paper, an abstract is needed, but you don't need to write a summary. 
+  We can say Summary is a kind of tool.
+
+### Similarities and differences between summary and paraphrase
+
+- Both of them translate another person's ideas into your own words.
+- A paraphrase is usually the same length as the original source;
+  a summary is approximately one quarter to one third of the original writing's length.
+
+### How to write a summary
+
+- Read the original source carefully. Underline only the main points of the writing.
+  And eliminate the details, example and repetition points.
+- Paraphrase the underline sections of the original source.
+- Your summary should include:
+  + the introduction to the summary;
+  + a reference to the source text;
+  + the reporting verb structure;
+  + the main point of the source text.
 
