@@ -305,7 +305,7 @@ Can't be changed:
 
 + **corroboration** [kəˈrɒbəreɪʃn]
   - (n) confirmation that some fact or statement is true through the use of documentary evidence.
-+ genial [ˈdʒiːniəl]
++ **genial** [ˈdʒiːniəl]
   - (adj) friendly and cheerful.
 + **spontaneity** [ˌspɒntəˈneɪəti]
   - (un) the quality of being spontaneous and coming from natural feelings without constraint.
