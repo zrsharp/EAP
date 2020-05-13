@@ -244,8 +244,8 @@ Can't be changed:
 + **dyslexia** [dɪsˈleksiə]
   - (u) a slight disorder of the brain that causes difficulty in reading and spelling, for example, but does not affect intelligence. 
 + **dyslexic** [dɪsˈleksɪk]
-  - having impaired ability to comprehendwritten words usually associated with aneurologic disorder.
-  - of or relating to or symptomatic of dyslexia.
+  - (adj) having impaired ability to comprehendwritten words usually associated with aneurologic disorder.
+  - (adj) of or relating to or symptomatic of dyslexia.
 + **conclusive** [kənˈkluːsɪv] 
   - (adj) (of evidence or argument) having or likely to have the effect of proving a case; decisive.
 + **deficit** [ˈdefɪsɪt]
