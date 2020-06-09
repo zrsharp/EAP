@@ -31,6 +31,14 @@
     * [Differences between summary and abstract](#differences-between-summary-and-abstract)
     * [Similarities and differences between summary and paraphrase](#similarities-and-differences-between-summary-and-paraphrase)
     * [How to write a summary](#how-to-write-a-summary)
+* [Unit 5 Patterns](#unit-5-patterns)
+  * [Unit 5-1 Citations and references](#unit-5-1-citations-and-references)
+    * [Words](#words-4)
+    * [Function](#function-1)
+      * [Citations(in-text citation/reference)](#citationsin-text-citationreference)
+      * [References](#references)
+    * [What to cite and reference, and what not to cite](#what-to-cite-and-reference-and-what-not-to-cite)
+    * [Forms of citation](#forms-of-citation)
 
 <!-- vim-markdown-toc -->
 
@@ -110,7 +118,7 @@ Can't be changed:
 1. Use appropriate synonyms
 
     such as:
- 
+
     | word                | synonym             |
     |:--------------------|:--------------------|
     | syringe             | needle              |
@@ -141,14 +149,19 @@ Can't be changed:
   - (cn) details of where sb lives or works and where letters, etc. can be sent.
   - (cn) a formal speech that is made in front of an audience.
 + **claim** [kleɪm]
+  
   - (v) to say that sth is true although it has not been proved and other people may not believe it.
 + **contribute to**
+  
   - (v) to be a factor or catalyst for a particular occurrence or event. 
 + **stimulate** [ˈstɪmjuleɪt] 
+  
   - (v) to make sth develop or become more active; to encourage sth.
 + **intellectual** [ˌɪntəˈlektʃuəl]
+  
   - (adj) connected with or using a person's ability to think in a logical way and understand things.
 + **relevance**  [ˈreləvəns]
+  
   - (n) the degree to which something is related or useful to what is happening or being talked about. 
 + **pervasive** [pəˈveɪsɪv]
   - (adj) existing in all parts of a place or thing;
@@ -174,13 +187,16 @@ Can't be changed:
 + **polarization** [ˌpəʊləraɪˈzeɪʃn] 
   - (n) the phenomenon in which waves of light or other radiation are restricted
     in direction of vibration [vaɪˈbreɪʃn].
+    
     > tips：这是个物理现象：极化，指事物在一定条件下发生两极分化，使其性质相对于原来状态有所偏离的现象。如分子极化(偶极矩增大)、光子极化(偏振)、电极极化等。——《百度百科》
 + **agglomeration** [əˌɡlɒməˈreɪʃn]
+  
   - (cn, un) a group of things put together in no particular order or arrangement.
 + **specialization** [ˌspeʃəlaɪ'zeɪʃ(ə)n]
   - (n) the special line of work you have adopted as your career.
   - (n) the act of specializing.
   - (n) (biology) the structural adaptation of some body part for a particular function.
+    
     > tips: 这个含义是生物学概念，意思是分化，如细胞分化
 + **infrastructure** [ˈɪnfrəstrʌktʃə(r)] 
   - (cn, un) the basic systems and services that are necessary for 
@@ -197,6 +213,7 @@ Can't be changed:
   - (n) waves caused by a boat moving through water;
     the movement of water back into the sea after a wave has hit the beach.
 + **methodology** [ˌmeθəˈdɒlədʒi]
+  
   - (cn, un) a set of methods and principles used to perform a particular activity.
 + **prioritize** [praɪˈɒrətaɪz]
   - (v) to put tasks, problems, etc. in order of importance,
@@ -376,4 +393,47 @@ A summary is a shortened version of the original.
   + a reference to the source text;
   + the reporting verb structure;
   + the main point of the source text.
+
+# Unit 5 Patterns
+
+## Unit 5-1 Citations and references
+
+### Words
+
+
+### Function
+
+In academic writing, writers use citations and references to acknowledge the ideas of earlier authors in order to avoid plagiarism([ˈpleɪdʒərɪzəm] 抄袭，剽窃).
+
+**Function**: Citations and references give the readers access to information about sources cited in the text.
+
+#### Citations(in-text citation/reference)
+
+- provide information, in brief, about the source of the original materials. There are two general types of citation systems: **numbered** and **author-date**.
+  - **The numbered system**: each number in the text corresponds to a numbered entry in a Note section at the end of the text.
+  - **The author-date system**: the names of the authors(only family name) and date of publication appear in the parentheses of the text, and each citation corresponds to an entry in the Reference section at the end of the text.
+
+
+#### References
+
+provide complete information about a source and is found at the of the text in a ***References***, ***Works Cited*** or in a ***Notes section***.
+
+In a References part, or Note section, entries include the author’s name, date of publication, title of the work, page number, publisher, location of publisher (if a book), issue and volume number(卷号) (if a journal, magazine, or newspaper article) or URL (the address of a web page on the world wide web if found on a website). The entries are listed in alphabetical order according to the author’s last name. 
+
+### What to cite and reference, and what not to cite
+
+**Writers must reference:**
+
+- exact quotation.
+- specific ideas
+- specific facts learned from another source of information.
+- specific research results
+- specific statistics
+- specific examples discovered from another source of information.
+
+### Forms of citation
+
+- **Quotation**
+- **Paraphrase**
+- **Summary**
 
