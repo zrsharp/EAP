@@ -2,48 +2,157 @@
 
 <!-- vim-markdown-toc GitLab -->
 
-* [Unit 2 Sustainability](#unit-2-sustainability)
-  * [Unit 2-3 Paraphrasing](#unit-2-3-paraphrasing)
-    * [Words](#words)
-    * [Paraphrasing](#paraphrasing)
-      * [What is Paraphrasing](#what-is-paraphrasing)
-      * [How to Paraphrase](#how-to-paraphrase)
-      * [Characteristics of a good paraphrase](#characteristics-of-a-good-paraphrase)
-      * [Techniques used to Paraphrase](#techniques-used-to-paraphrase)
-  * [Mind map](#mind-map)
-* [Unit 3 Creativity](#unit-3-creativity)
-  * [Unit 3-1 Abstract in a journal article](#unit-3-1-abstract-in-a-journal-article)
-    * [Words](#words-1)
-    * [Journal article](#journal-article)
-    * [Abstract](#abstract)
-      * [Abstract is one part in a journal article](#abstract-is-one-part-in-a-journal-article)
-      * [Features in an abstract](#features-in-an-abstract)
-  * [Unit 3-2 Essay conclusion](#unit-3-2-essay-conclusion)
-    * [Words](#words-2)
-    * [What is essay conclusion](#what-is-essay-conclusion)
-    * [Features of a conclusion](#features-of-a-conclusion)
-    * [Hedging language](#hedging-language)
-* [Unit 4 Information](#unit-4-information)
-  * [Unit 4-1 Summary](#unit-4-1-summary)
-    * [Words](#words-3)
-    * [Definition](#definition)
-    * [Function](#function)
-    * [Differences between summary and abstract](#differences-between-summary-and-abstract)
-    * [Similarities and differences between summary and paraphrase](#similarities-and-differences-between-summary-and-paraphrase)
-    * [How to write a summary](#how-to-write-a-summary)
-* [Unit 5 Patterns](#unit-5-patterns)
-  * [Unit 5-1 Citations and references](#unit-5-1-citations-and-references)
-    * [Words](#words-4)
-    * [Function](#function-1)
-      * [Citations(in-text citation/reference)](#citationsin-text-citationreference)
-      * [References](#references)
-    * [What to cite and reference, and what not to cite](#what-to-cite-and-reference-and-what-not-to-cite)
-    * [Forms of citation](#forms-of-citation)
+- [By Zero Sharp](#by-zero-sharp)
+- [Unit 1 Behaviour](#unit-1-behaviour)
+  - [Unit 1 Identifying genre, audience, purposes](#unit-1-identifying-genre-audience-purposes)
+    - [Genre](#genre)
+    - [Audiance](#audiance)
+    - [Purpose](#purpose)
+  - [Unit 1-2 Identifying perspectives in a text](#unit-1-2-identifying-perspectives-in-a-text)
+  - [Perspective](#perspective)
+  - [Language of Perspective](#language-of-perspective)
+  - [Unit 1-3 Introduction to an essay](#unit-1-3-introduction-to-an-essay)
+- [Unit 2 Sustainability](#unit-2-sustainability)
+  - [Unit 2-1 Identifying topic, main points](#unit-2-1-identifying-topic-main-points)
+    - [Topic](#topic)
+    - [Main points](#main-points)
+    - [Supporting details](#supporting-details)
+  - [Unit 2-2 Body paragraphs](#unit-2-2-body-paragraphs)
+    - [Features](#features)
+    - [Evaluating a body paragraph](#evaluating-a-body-paragraph)
+  - [Unit 2-3 Paraphrasing](#unit-2-3-paraphrasing)
+    - [Words](#words)
+    - [Paraphrasing](#paraphrasing)
+      - [What is Paraphrasing](#what-is-paraphrasing)
+      - [How to Paraphrase](#how-to-paraphrase)
+      - [Characteristics of a good paraphrase](#characteristics-of-a-good-paraphrase)
+      - [Techniques used to Paraphrase](#techniques-used-to-paraphrase)
+  - [Mind map](#mind-map)
+- [Unit 3 Creativity](#unit-3-creativity)
+  - [Unit 3-1 Abstract in a journal article](#unit-3-1-abstract-in-a-journal-article)
+    - [Words](#words-1)
+    - [Journal article](#journal-article)
+    - [Abstract](#abstract)
+      - [Abstract is one part in a journal article](#abstract-is-one-part-in-a-journal-article)
+      - [Features in an abstract](#features-in-an-abstract)
+  - [Unit 3-2 Essay conclusion](#unit-3-2-essay-conclusion)
+    - [Words](#words-2)
+    - [What is essay conclusion](#what-is-essay-conclusion)
+    - [Features of a conclusion](#features-of-a-conclusion)
+    - [Hedging language](#hedging-language)
+- [Unit 4 Information](#unit-4-information)
+  - [Unit 4-1 Summary](#unit-4-1-summary)
+    - [Words](#words-3)
+    - [Definition](#definition)
+    - [Function](#function)
+    - [Differences between summary and abstract](#differences-between-summary-and-abstract)
+    - [Similarities and differences between summary and paraphrase](#similarities-and-differences-between-summary-and-paraphrase)
+    - [How to write a summary](#how-to-write-a-summary)
+- [Unit 5 Patterns](#unit-5-patterns)
+  - [Unit 5-1 Citations and references](#unit-5-1-citations-and-references)
+    - [Words](#words-4)
+    - [Function](#function-1)
+      - [Citations(in-text citation/reference)](#citationsin-text-citationreference)
+      - [References](#references)
+    - [What to cite and reference, and what not to cite](#what-to-cite-and-reference-and-what-not-to-cite)
+    - [Forms of citation](#forms-of-citation)
 
 <!-- vim-markdown-toc -->
 
+# Unit 1 Behaviour
+
+## Unit 1 Identifying genre, audience, purposes
+
+### Genre
+
+A pariticular style or form of written or spoken text with its own specific features.
+
+### Audiance
+
+All the people who read or might read a particular book or article, or attend a lecture or presentation.
+
+### Purpose
+
+What a price of writing aims to achieve.
+
+## Unit 1-2 Identifying perspectives in a text
+
+## Perspective
+
+a mainly objective way of viewing sth e.g.
+
+## Language of Perspective
+
+For example:
+
+- from a financial perspective
+- as far as financial is concerned.
+- financially speaking.
+- in terms of finance.
+
+- **Implicitly**: This approach is likely to be expensive.
+- **Explicitly**: As far as finance is concerned, this approach is likely to be expensive.
+
+##  Unit 1-3 Introduction to an essay
+
+**The first part of an academic text**
+
+- to give background and context by moving from the general to the particular.
+- to provide a rationale for researchers and writing the text.
+- to state the overall purpoose and aims of the text.
+- to state how the whole text is organized.
+
+**A thesis statement is a key feature of many introduction.**
+
+- A sentence in the introduction.
+- Briefly express some or all of the following: purpose, aims, rationale, stance, limitations, organization.
+
+
 # Unit 2 Sustainability
 
+## Unit 2-1 Identifying topic, main points
+
+### Topic
+
+- The topic is the general subject of a text.
+- Words or phrases.
+- Be found in the title.
+
+### Main points
+
+- Main idea
+- Important thought about a topic.
+- usually stated in one sentence.
+
+### Supporting details
+
+- specific facts, reasons. examples or other kinds of information.
+- used to support the main points
+
+
+1. Decide which details help you to understand the main idea.
+2. Turn the main idea into a question by asking who, what, when, where, why, or how?
+
+## Unit 2-2 Body paragraphs
+
+- **support the main point in your thesis statement.**
+- **ideas in your paragraphs should relate back to the thesis statement.**
+
+### Features
+
+- the main point of the paragraph expressed clearly.
+- definition of key terms (if necessary or not defined before)
+- examples or other supporting evidence.
+- comment on or evaluation of the main points.
+
+### Evaluating a body paragraph
+
+1. Does the writer state their main argument clearly?
+2. Do supporting points flow logically?
+3. Are key concepts/terms clearly defined and/or explained? Give evidence.
+4. Does the evidence chosen support the main argument? Explain why or why not?
+5. Does the writer include comment and/or evaluation to make their own stance clear? Give evidence.
+    
 ## Unit 2-3 Paraphrasing
 
 ### Words
