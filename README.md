@@ -9,8 +9,8 @@
     - [Audiance](#audiance)
     - [Purpose](#purpose)
   - [Unit 1-2 Identifying perspectives in a text](#unit-1-2-identifying-perspectives-in-a-text)
-  - [Perspective](#perspective)
-  - [Language of Perspective](#language-of-perspective)
+    - [Perspective](#perspective)
+    - [Language of Perspective](#language-of-perspective)
   - [Unit 1-3 Introduction to an essay](#unit-1-3-introduction-to-an-essay)
 - [Unit 2 Sustainability](#unit-2-sustainability)
   - [Unit 2-1 Identifying topic, main points](#unit-2-1-identifying-topic-main-points)
@@ -77,11 +77,11 @@ What a price of writing aims to achieve.
 
 ## Unit 1-2 Identifying perspectives in a text
 
-## Perspective
+### Perspective
 
 a mainly objective way of viewing sth e.g.
 
-## Language of Perspective
+### Language of Perspective
 
 For example:
 
