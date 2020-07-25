@@ -12,13 +12,17 @@
     - [Perspective](#perspective)
     - [Language of Perspective](#language-of-perspective)
   - [Unit 1-3 Introduction to an essay](#unit-1-3-introduction-to-an-essay)
+    - [Features](#features)
+    - [Optional features](#optional-features)
+    - [Evaluating essay introduction](#evaluating-essay-introduction)
 - [Unit 2 Sustainability](#unit-2-sustainability)
   - [Unit 2-1 Identifying topic, main points](#unit-2-1-identifying-topic-main-points)
     - [Topic](#topic)
     - [Main points](#main-points)
     - [Supporting details](#supporting-details)
   - [Unit 2-2 Body paragraphs](#unit-2-2-body-paragraphs)
-    - [Features](#features)
+    - [Features](#features-1)
+    - [Optional features](#optional-features-1)
     - [Evaluating a body paragraph](#evaluating-a-body-paragraph)
   - [Unit 2-3 Paraphrasing](#unit-2-3-paraphrasing)
     - [Words](#words)
@@ -50,12 +54,11 @@
     - [How to write a summary](#how-to-write-a-summary)
 - [Unit 5 Patterns](#unit-5-patterns)
   - [Unit 5-1 Citations and references](#unit-5-1-citations-and-references)
-    - [Words](#words-4)
     - [Function](#function-1)
       - [Citations(in-text citation/reference)](#citationsin-text-citationreference)
       - [References](#references)
     - [What to cite and reference, and what not to cite](#what-to-cite-and-reference-and-what-not-to-cite)
-    - [Forms of citation](#forms-of-citation)
+    - [Forms of information and ideas from sources, or citations](#forms-of-information-and-ideas-from-sources-or-citations)
 
 <!-- vim-markdown-toc -->
 
@@ -90,16 +93,25 @@ For example:
 - financially speaking.
 - in terms of finance.
 
-- **Implicitly**: This approach is likely to be expensive.
-- **Explicitly**: As far as finance is concerned, this approach is likely to be expensive.
+
+Perspectives can be expressed explicitly, using **noun**, **adjective**, or **adverbials**.
+
+A perspective may be stated more implicitly, using **relative words**.
+
+For example:
+
+- **implicitly**: this approach is likely to be expensive.
+- **explicitly**: as far as finance is concerned, this apprOACH IS LIKELY TO BE EXPENSIVE.
 
 ##  Unit 1-3 Introduction to an essay
+
+### Features
 
 **The first part of an academic text**
 
 - to give background and context by moving from the general to the particular.
 - to provide a rationale for researchers and writing the text.
-- to state the overall purpoose and aims of the text.
+- to state the overall purpose and aims of the text.
 - to state how the whole text is organized.
 
 **A thesis statement is a key feature of many introduction.**
@@ -107,6 +119,21 @@ For example:
 - A sentence in the introduction.
 - Briefly express some or all of the following: purpose, aims, rationale, stance, limitations, organization.
 
+### Optional features
+
+- gain the reader’s interest by offering an opening statement
+- define any core terms necessary to the understanding of the text
+- present evidence and citations to support the argument
+- state limitations
+
+### Evaluating essay introduction
+
+- Is the introduction closely relevant to the essay question?
+- Does it contain the essential features of an introduction?
+- Is it logically organized?
+- Are the aims and rationale of the essay clearly given?
+- Does it contain appropriate academic language for an essay introduction?
+- Is it the right given length?
 
 # Unit 2 Sustainability
 
@@ -135,7 +162,7 @@ For example:
 
 ## Unit 2-2 Body paragraphs
 
-- **support the main point in your thesis statement.**
+- **support the main point in your thesis statement by breaking into smaller ideas or subtopics.**
 - **ideas in your paragraphs should relate back to the thesis statement.**
 
 ### Features
@@ -144,6 +171,14 @@ For example:
 - definition of key terms (if necessary or not defined before)
 - examples or other supporting evidence.
 - comment on or evaluation of the main points.
+
+### Optional features
+
+- Additional supporting points.
+- Information of concepts.
+- Citation.
+- A concluding sentence be recaping or summarizing the main idea. 
+- A link to the next paragraphs.
 
 ### Evaluating a body paragraph
 
@@ -507,9 +542,6 @@ A summary is a shortened version of the original.
 
 ## Unit 5-1 Citations and references
 
-### Words
-
-
 ### Function
 
 In academic writing, writers use citations and references to acknowledge the ideas of earlier authors in order to avoid plagiarism([ˈpleɪdʒərɪzəm] 抄袭，剽窃).
@@ -521,7 +553,6 @@ In academic writing, writers use citations and references to acknowledge the ide
 - provide information, in brief, about the source of the original materials. There are two general types of citation systems: **numbered** and **author-date**.
   - **The numbered system**: each number in the text corresponds to a numbered entry in a Note section at the end of the text.
   - **The author-date system**: the names of the authors(only family name) and date of publication appear in the parentheses of the text, and each citation corresponds to an entry in the Reference section at the end of the text.
-
 
 #### References
 
@@ -540,9 +571,9 @@ In a References part, or Note section, entries include the author’s name, date
 - specific statistics
 - specific examples discovered from another source of information.
 
-### Forms of citation
+### Forms of information and ideas from sources, or citations
 
-- **Quotation**
-- **Paraphrase**
-- **Summary**
+- **quotation**
+- **paraphrase**
+- **summary**
 
