@@ -59,6 +59,11 @@
       - [References](#references)
     - [What to cite and reference, and what not to cite](#what-to-cite-and-reference-and-what-not-to-cite)
     - [Forms of information and ideas from sources, or citations](#forms-of-information-and-ideas-from-sources-or-citations)
+- [Unit 6 Responsibility](#unit-6-responsibility)
+  - [Unit 6-1 Understanding the Structure of a Report](#unit-6-1-understanding-the-structure-of-a-report)
+    - [Section headings and their purposes](#section-headings-and-their-purposes)
+- [Unit 7 Data](#unit-7-data)
+  - [Unit 7-2 Understanding data and interpretation](#unit-7-2-understanding-data-and-interpretation)
 
 <!-- vim-markdown-toc -->
 
@@ -577,3 +582,30 @@ In a References part, or Note section, entries include the author’s name, date
 - **paraphrase**
 - **summary**
 
+# Unit 6 Responsibility
+
+## Unit 6-1 Understanding the Structure of a Report 
+
+- The genre is reporting something (i.e research) which has been undertaken.
+- The main purpose is to summarize a piece of research, to offer interpretation, and to make recommendation for future work.
+- The audience is specialists in the field such as students, researchers, professors, or professionals.
+
+### Section headings and their purposes
+
+- **abstract**: to give an overview of the whole report including its conclusion.
+- **introduction**: to introduce the topic and context, brief background information and a rationale for the research.
+- **literature review**: to present an overview of relevant recent research in the field.
+- **background**: to give background information and a rationale for the research.
+- **method**: to describe how the research was carried out.
+- **results**: to summarize the findings of the research.
+- **discussion**: to interpret and evaluate the results and their significance.
+- **recommendation**: to make suggestions for further work in the area.
+- **conclusion**: to restate the main findings and discussion points.
+- **appendix**: to present any extra relevant material, such as raw data, which is not necessary/too long to include in the body of the report.
+- **reference**: to list the sources used in the report.
+
+A report moves from more objective reporting(i.e. the background and method to the research) to more subjective material including interpretation of the results.
+
+# Unit 7 Data
+
+## Unit 7-2 Understanding data and interpretation
