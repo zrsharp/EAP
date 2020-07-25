@@ -101,12 +101,12 @@ For example:
 
 Perspectives can be expressed explicitly, using **noun**, **adjective**, or **adverbials**.
 
-A perspective may be stated more implicitly, using **relative words**.
+A perspective may be stated more implicitly, using **related words**.
 
 For example:
 
 - **implicitly**: this approach is likely to be expensive.
-- **explicitly**: as far as finance is concerned, this apprOACH IS LIKELY TO BE EXPENSIVE.
+- **explicitly**: as far as finance is concerned, this approach is likely to be expensive.
 
 ##  Unit 1-3 Introduction to an essay
 
@@ -251,7 +251,9 @@ Expressing another person's words or ideas in your own words is called paraphras
 
 Can't be changed:
 
-1. proper nouns such as names of people, organizations, places: Albert Einstein, New Zealand.
+In paraphrasing the original, you will find some **shared language** —certain kinds of words and phrases that need not be changed as they can be shared by your paraphrases.
+
+1. Proper nouns such as names of people, organizations, places: Albert Einstein, New Zealand.
 2. Common nouns that are difficult to reword efficiently: computer , mosquito, atmosphere, winter.
 3. Technical terms: genetically modified foods, DNA.
 4. Number and dates: 57%, 2014, April 20.
@@ -587,11 +589,11 @@ In a References part, or Note section, entries include the author’s name, date
 ## Unit 6-1 Understanding the Structure of a Report 
 
 - The genre is reporting something (i.e research) which has been undertaken.
-- The main purpose is to summarize a piece of research, to offer interpretation, and to make recommendation for future work.
+- The main purpose is to summarize a piece of research, to offer interpretation, and to make recommendations for future work.
 - The audience is specialists in the field such as students, researchers, professors, or professionals.
 
 ### Section headings and their purposes
-
+ 
 - **abstract**: to give an overview of the whole report including its conclusion.
 - **introduction**: to introduce the topic and context, brief background information and a rationale for the research.
 - **literature review**: to present an overview of relevant recent research in the field.
@@ -609,3 +611,4 @@ A report moves from more objective reporting(i.e. the background and method to t
 # Unit 7 Data
 
 ## Unit 7-2 Understanding data and interpretation
+
