@@ -612,3 +612,12 @@ A report moves from more objective reporting(i.e. the background and method to t
 
 ## Unit 7-2 Understanding data and interpretation
 
+```c++
+#include <stdio.h>
+
+int main()
+{
+    return 0;
+}
+
+```
